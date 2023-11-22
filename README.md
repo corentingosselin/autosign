@@ -1,4 +1,3 @@
-```
 # 📝 Autosign
 
 🚀 This Node.js application automates the process of signing documents. It fetches signatures that need to be signed, signs them automatically, and sends email notifications about the signing status.
@@ -83,4 +82,3 @@ This cron should run at 8:02 AM and 1:02 PM every day.
 ## 🆘 Support
 
 This is a private project, so no support will be provided if you are not a student of the school.
-```
